@@ -1,0 +1,2 @@
+# CodeCluase_GoldenProject1-BlindnessDetection
+CodeClause Artificial Intellegence Internship 
